@@ -66,6 +66,16 @@ Postman es una herramienta para probar APIs de forma visual. Permite enviar soli
 
 ### 4. **DESCRIPCIÓN DEL PROCEDIMIENTO**
 
+**Herramientas utilizadas:**
+
+* Node.js y NPM
+* Express.js
+* Mongoose
+* MongoDB en contenedor Docker
+* Postman
+
+**Pasos realizados:**
+
 **1. Configuración del entorno:**
 
 * Se creó el proyecto con `npm init` y se instalaron las dependencias (`express`, `mongoose`, `nodemon`, etc.).
